@@ -7,20 +7,10 @@
 <body>
 	<outline text="02. Media/Aggregator/Curator" title="02. Media/Aggregator/Curator">
 		<outline text="BlockTempo (Chinese)" title="BlockTempo (Chinese)" description="" type="rss" version="RSS" htmlUrl="https://www.blocktempo.com/" xmlUrl="https://www.blocktempo.com/feed/"/>
-		<outline text="Blockworks" title="Blockworks" description="" type="rss" version="RSS" htmlUrl="https://blockworks.co/" xmlUrl="https://blockworks.co/feed/"/>
 		<outline text="ChainFeeds Selected (Chinese)" title="ChainFeeds Selected (Chinese)" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.chainfeeds.xyz/rss"/>
-		<outline text="CoinDesk" title="CoinDesk" description="" type="rss" version="RSS" htmlUrl="https://www.coindesk.com/" xmlUrl="http://feeds.feedburner.com/Coindesk"/>
-		<outline text="Cointelegraph.com News" title="Cointelegraph.com News" description="" type="rss" version="RSS" htmlUrl="https://cointelegraph.com/" xmlUrl="https://cointelegraph.com/rss"/>
 		<outline text="Crunchbase Crypto" title="Crunchbase Crypto" description="" type="rss" version="RSS" htmlUrl="https://news.crunchbase.com/" xmlUrl="https://news.crunchbase.com/sections/crypto/feed/"/>
-		<outline text="Crypto Briefing" title="Crypto Briefing" description="" type="rss" version="RSS" htmlUrl="https://cryptobriefing.com/" xmlUrl="https://cryptobriefing.com/feed/"/>
-		<outline text="Crypto News on Seeking Alpha" title="Crypto News on Seeking Alpha" description="" type="rss" version="RSS" htmlUrl="https://seekingalpha.com/news/crypto" xmlUrl="https://seekingalpha.com/news/crypto/feed"/>
-		<outline text="Decrypt" title="Decrypt" description="" type="rss" version="RSS" htmlUrl="https://decrypt.co/feed" xmlUrl="https://decryptmedia.com/feed/"/>
-		<outline text="ECN (Chinese)" title="ECN (Chinese)" description="" type="rss" version="RSS" htmlUrl="http://github.com/dylang/node-rss" xmlUrl="https://news.ethereum.cn/rss.xml"/>
-		<outline text="Hacker Noon" title="Hacker Noon" description="" type="rss" version="RSS" htmlUrl="http://github.com/dylang/node-rss" xmlUrl="https://hackernoon.com/feed"/>
 		<outline text="Messari Crypto News Feed" title="Messari Crypto News Feed" description="" type="rss" version="RSS" htmlUrl="https://messari.io/" xmlUrl="https://messari.io/rss"/>
-		<outline text="TechCrunch - Bitcoin" title="TechCrunch - Bitcoin" description="" type="rss" version="RSS" htmlUrl="https://techcrunch.com/" xmlUrl="https://techcrunch.com/tag/bitcoin/feed"/>
 		<outline text="TechFlow (Chinese)" title="TechFlow (Chinese)" description="" type="rss" version="RSS" htmlUrl="https://techflowpost.mirror.xyz/" xmlUrl="https://techflowpost.mirror.xyz/feed/atom"/>
-		<outline text="Trustnodes" title="Trustnodes" description="" type="rss" version="RSS" htmlUrl="https://www.trustnodes.com/" xmlUrl="https://www.trustnodes.com/feed"/>
 	</outline>
 	</body>
 </opml>
