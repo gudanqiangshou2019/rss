@@ -13,7 +13,6 @@
 		<outline text="EthHub" title="EthHub" description="" type="rss" version="RSS" htmlUrl="https://ethhub.substack.com/" xmlUrl="https://ethhub.substack.com/feed"/>
 		<outline text="mcdao" title="mcdao" description="" type="rss" version="RSS" htmlUrl="https://mcdao.mirror.xyz/" xmlUrl="https://mcdao.mirror.xyz/feed/atom"/>
 		<outline text="MinerUpdate" title="MinerUpdate" description="" type="rss" version="RSS" htmlUrl="https://minerupdate.substack.com/" xmlUrl="https://minerupdate.substack.com/feed"/>
-		<outline text="The Defiant" title="The Defiant" description="" type="rss" version="RSS" htmlUrl="https://newsletter.thedefiant.io/" xmlUrl="https://thedefiant.substack.com/feed"/>
 		<outline text="Week in Ethereum News" title="Week in Ethereum News" description="" type="rss" version="RSS" htmlUrl="https://weekinethereumnews.com/" xmlUrl="https://weekinethereumnews.com/feed/"/>
 	</outline>
   </body>
