@@ -36,6 +36,10 @@
 		<outline text="The Optimism Collective" title="The Optimism Collective" description="" type="rss" version="RSS" htmlUrl="https://optimism.mirror.xyz/" xmlUrl="https://optimism.mirror.xyz/feed/atom"/>
 		<outline text="The Sandbox - Medium" title="The Sandbox - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/sandbox-game?source=rss----df97fb047c1e---4" xmlUrl="https://medium.com/feed/sandbox-game"/>
 		<outline text="UMA Project - Medium" title="UMA Project - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/uma-project?source=rss----e0a14dc9da94---4" xmlUrl="https://medium.com/feed/uma-project"/>
+	        <outline text="Anchor Protocol" title="Anchor Protocol" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/anchor_protocol" xmlUrl="https://twitter.com/anchor_protocol"/>
+		<outline text="Anchor Protocol on Medium" title="Anchor Protocol on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@anchor-protocol?source=rss-f25c4bc72765------2" xmlUrl="https://medium.com/feed/@anchor-protocol"/>	
+		<outline text="THORChain" title="THORChain" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/thorchain" xmlUrl="https://twitter.com/thorchain"/>
+		<outline text="THORChain on Medium" title="THORChain on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@thorchain?source=rss-5ad6957d7610------2" xmlUrl="https://medium.com/feed/@thorchain"/>
 	</outline>
   </body>
 </opml>
