@@ -40,6 +40,7 @@
 		<outline text="Anchor Protocol on Medium" title="Anchor Protocol on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@anchor-protocol?source=rss-f25c4bc72765------2" xmlUrl="https://medium.com/feed/@anchor-protocol"/>	
 		<outline text="THORChain" title="THORChain" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/thorchain" xmlUrl="https://twitter.com/thorchain"/>
 		<outline text="THORChain on Medium" title="THORChain on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@thorchain?source=rss-5ad6957d7610------2" xmlUrl="https://medium.com/feed/@thorchain"/>
+	        <outline text="@BiteyeCN" title="@BiteyeCN" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/BiteyeCN" xmlUrl="https://twitter.com/BiteyeCN"/>
 	</outline>
   </body>
 </opml>
