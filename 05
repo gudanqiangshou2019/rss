@@ -44,6 +44,15 @@
 		<outline text="VeradiVerdict" title="VeradiVerdict" description="" type="rss" version="RSS" htmlUrl="https://www.veradiverdict.com/" xmlUrl="https://veradiverdict.substack.com/feed/"/>
 		<outline text="Woobull" title="Woobull" description="" type="rss" version="RSS" htmlUrl="https://woobull.com/" xmlUrl="https://woobull.com/rss/"/>
 		<outline text="Wrong A Lot (Zee Prime Capital)" title="Wrong A Lot (Zee Prime Capital)" description="" type="rss" version="RSS" htmlUrl="https://wrongalot.substack.com/" xmlUrl="https://wrongalot.substack.com/feed"/>
+	        <outline text="BTCdayu" title="BTCdayu" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/BTCdayu" xmlUrl="https://twitter.com/BTCdayu"/>	
+                <outline text="江卓尔_莱比特矿池" title="江卓尔_莱比特矿池" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/jiangzhuoer2" xmlUrl="https://twitter.com/jiangzhuoer2"/>
+                <outline text="Pima" title="Pima" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/LeePima" xmlUrl="https://twitter.com/LeePima"/>	
+                <outline text="DiscusFish" title="DiscusFish" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/bitfish1" xmlUrl="https://twitter.com/bitfish1"/>	
+                <outline text="Mindao" title="Mindao" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/mindaoyang" xmlUrl="https://twitter.com/mindaoyang"/>
+                <outline text="YeruiZhang" title="YeruiZhang" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/YeruiZhang" xmlUrl="https://twitter.com/YeruiZhang"/>	
+                <outline text="0xTodd" title="0xTodd" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/0x_Todd" xmlUrl="https://twitter.com/0x_Todd"/>
+                <outline text="Bit余烬" title="Bit余烬" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/BitcoinEmber" xmlUrl="https://twitter.com/BitcoinEmber"/>		
+                <outline text="蓝狐笔记" title="蓝狐笔记" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/0xC36051E2bb2128c18B6E16e5013355A7D950b3F5" xmlUrl="https://mirror.xyz/0xC36051E2bb2128c18B6E16e5013355A7D950b3F5/feed/atom"/>
 	</outline>
   </body>
 </opml>
