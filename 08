@@ -25,7 +25,7 @@
 <outline text="Silent validator" title="Silent validator" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/exploring.eth" xmlUrl="https://mirror.xyz/exploring.eth/feed/atom"/>
 <outline text="DeMo" title="DeMo" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/0x610A5E4630c92C34987F658dcc862909dF650a84" xmlUrl="https://mirror.xyz/0x610A5E4630c92C34987F658dcc862909dF650a84/feed/atom"/>
 <outline text="johns" title="johns" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/0x891dDE39445f54bc6f1b73e89398f96e7851B4ba" xmlUrl="https://mirror.xyz/0x891dDE39445f54bc6f1b73e89398f96e7851B4ba/feed/atom"/>
-	<outline text="丰密Kuiqian.eth" title="丰密Kuiqian.eth" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/kuiqian.eth" xmlUrl="https://mirror.xyz/kuiqian.eth/feed/atom"/>
+<outline text="丰密Kuiqian.eth" title="丰密Kuiqian.eth" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/kuiqian.eth" xmlUrl="https://mirror.xyz/kuiqian.eth/feed/atom"/>
 <outline text="rainight-雨夜" title="rainight-雨夜" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/jackmusk.eth" xmlUrl="https://mirror.xyz/jackmusk.eth/feed/atom"/>
 <outline text="Greta" title="Greta" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/0xCD0e394639B2D0b159B41F9dBe0583C33d85e874" xmlUrl="https://mirror.xyz/0xCD0e394639B2D0b159B41F9dBe0583C33d85e874/feed/atom"/>
 <outline text="撸币养家" title="撸币养家" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/lubiyangjia.eth" xmlUrl="https://mirror.xyz/lubiyangjia.eth/feed/atom"/>
@@ -37,8 +37,7 @@
 <outline text="链上达人" title="链上达人" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/0x5b197E3eE6770518f6F2735274522F48aBd69864" xmlUrl="https://mirror.xyz/0x5b197E3eE6770518f6F2735274522F48aBd69864/feed/atom"/>
 <outline text="0x作死夫" title="0x作死夫" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/0xjosef.eth" xmlUrl="https://mirror.xyz/0xjosef.eth/feed/atom"/>
 <outline text="三一" title="三一" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/sanyi.eth" xmlUrl="https://mirror.xyz/sanyi.eth/feed/atom"/>
-	
-	<outline text="Blockjoys" title="Blockjoys" description="" type="rss" version="RSS" htmlUrl="https://blockjoys.medium.com/" xmlUrl="https://blockjoys.medium.com/feed/"/>
+<outline text="Blockjoys" title="Blockjoys" description="" type="rss" version="RSS" htmlUrl="https://blockjoys.medium.com/" xmlUrl="https://blockjoys.medium.com/feed/"/>
 <outline text="_bolsheviks" title="_bolsheviks" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@_bolsheviks" xmlUrl="https://medium.com/feed/@_bolsheviks"/>
 <outline text="Encryptiondog" title="Encryptiondog" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@sllong2020" xmlUrl="https://medium.com/feed/@sllong2020"/>
 <outline text="SynFutures" title="SynFutures" description="" type="rss" version="RSS" htmlUrl="https://synfutures.medium.com/" xmlUrl="https://synfutures.medium.com/feed/"/>
