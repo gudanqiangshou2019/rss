@@ -7,7 +7,6 @@
 <body>
 <outline text="05. Research/VC" title="05. Research/VC">
 		<outline text="0xB10C's Blog: German Bitcoin freelance developer on 0xB10C's Blog" title="0xB10C's Blog: German Bitcoin freelance developer on 0xB10C's Blog" description="" type="rss" version="RSS" htmlUrl="https://b10c.me/" xmlUrl="https://b10c.me/feed.xml"/>
-		<outline text="a16z Crypto" title="a16z Crypto" description="" type="rss" version="RSS" htmlUrl="https://a16z.com/" xmlUrl="https://a16z.com/category/blockchain-cryptocurrencies/feed/"/>
 		<outline text="AlfaBlok" title="AlfaBlok" description="" type="rss" version="RSS" htmlUrl="https://alfablok.substack.com/" xmlUrl="https://alfablok.substack.com/feed"/>
 		<outline text="bitcoin-dev blog" title="bitcoin-dev blog" description="" type="rss" version="RSS" htmlUrl="https://bitcoin-dev.blog/" xmlUrl="https://bitcoin-dev.blog/feed.xml"/>
 		<outline text="BTC Study (Chinese)" title="BTC Study (Chinese)" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.btcstudy.org/atom.xml"/>
