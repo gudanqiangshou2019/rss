@@ -20,7 +20,6 @@
 		<outline text="Compound - Medium" title="Compound - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/compound-finance?source=rss----22e4df2110f5---4" xmlUrl="https://medium.com/feed/compound-finance"/>
 		<outline text="ConsenSys" title="ConsenSys" description="" type="rss" version="RSS" htmlUrl="https://consensys.net/" xmlUrl="https://feeds.feedburner.com/ConsenSys/posts"/>
 		<outline text="ConsenSys Media - Medium" title="ConsenSys Media - Medium" description="" type="rss" version="RSS" htmlUrl="https://media.consensys.net?source=rss----3018c972aab8---4/" xmlUrl="https://media.consensys.net/feed"/>
-		<outline text="Decentraland" title="Decentraland" description="" type="rss" version="RSS" htmlUrl="https://decentraland.org/blog/" xmlUrl="https://decentraland.org/blog/feed.xml"/>
 		<outline text="DFINITY on Medium" title="DFINITY on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@dfinity?source=rss-f46cd59473d8------2" xmlUrl="https://medium.com/feed/@dfinity"/>
 		<outline text="dYdX - The Integral" title="dYdX - The Integral" description="" type="rss" version="RSS" htmlUrl="https://integral.dydx.exchange/" xmlUrl="https://integral.dydx.exchange/rss/"/>
 		<outline text="ENS" title="ENS" description="" type="rss" version="RSS" htmlUrl="https://ens.mirror.xyz/" xmlUrl="https://ens.mirror.xyz/feed/atom"/>
@@ -38,10 +37,7 @@
 		<outline text="The Optimism Collective" title="The Optimism Collective" description="" type="rss" version="RSS" htmlUrl="https://optimism.mirror.xyz/" xmlUrl="https://optimism.mirror.xyz/feed/atom"/>
 		<outline text="The Sandbox - Medium" title="The Sandbox - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/sandbox-game?source=rss----df97fb047c1e---4" xmlUrl="https://medium.com/feed/sandbox-game"/>
 		<outline text="UMA Project - Medium" title="UMA Project - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/uma-project?source=rss----e0a14dc9da94---4" xmlUrl="https://medium.com/feed/uma-project"/>
-	        <outline text="Anchor Protocol" title="Anchor Protocol" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/anchor_protocol" xmlUrl="https://twitter.com/anchor_protocol"/>
 		<outline text="Anchor Protocol on Medium" title="Anchor Protocol on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@anchor-protocol?source=rss-f25c4bc72765------2" xmlUrl="https://medium.com/feed/@anchor-protocol"/>	
-		<outline text="THORChain" title="THORChain" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/thorchain" xmlUrl="https://twitter.com/thorchain"/>
-		<outline text="THORChain on Medium" title="THORChain on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@thorchain?source=rss-5ad6957d7610------2" xmlUrl="https://medium.com/feed/@thorchain"/>
 	        <outline text="@BiteyeCN" title="@BiteyeCN" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/BiteyeCN" xmlUrl="https://twitter.com/BiteyeCN"/>
 	</outline>
   </body>
