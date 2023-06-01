@@ -12,7 +12,7 @@
 		<outline text="Messari Crypto News Feed" title="Messari Crypto News Feed" description="" type="rss" version="RSS" htmlUrl="https://messari.io/" xmlUrl="https://messari.io/rss"/>
 		<outline text="TechFlow (Chinese)" title="TechFlow (Chinese)" description="" type="rss" version="RSS" htmlUrl="https://techflowpost.substack.com/" xmlUrl="https://techflowpost.substack.com/feed"/>		
 		<outline text="TechFlow (Chinese)" title="TechFlow (Chinese)" description="" type="rss" version="RSS" htmlUrl="https://techflowpost.mirror.xyz/" xmlUrl="https://techflowpost.mirror.xyz/feed/atom"/>
-	        <outline text="LD Capital" title="LD Capital" description="" type="rss" version="RSS" htmlUrl="https://ld-capital.medium.com/" xmlUrl="https://medium.com/feed/ld-capital"/>
+	        <outline text="LD Capital" title="LD Capital" description="" type="rss" version="RSS" htmlUrl="https://ld-capital.medium.com/%E8%A1%8D%E7%94%9F%E5%93%81dex%E4%BA%89%E5%A4%BA%E6%88%98-kwenta-level%E5%91%A8%E5%86%85%E4%BA%A4%E6%98%93%E9%87%8F%E8%B6%85%E8%B6%8Agmx-729d7fb518d0?source=rss-53c5cb826534------2" xmlUrl="https://medium.com/feed/@ld-capital"/>
 	</outline>
 	</body>
 </opml>
