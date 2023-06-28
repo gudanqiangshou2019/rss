@@ -36,7 +36,6 @@
 		<outline text="Research | Outlier Ventures" title="Research | Outlier Ventures" description="" type="rss" version="RSS" htmlUrl="https://outlierventures.io/" xmlUrl="https://outlierventures.io/research/feed/"/>
 		<outline text="samczsun" title="samczsun" description="" type="rss" version="RSS" htmlUrl="https://samczsun.com/" xmlUrl="https://samczsun.com/rss/"/>
 		<outline text="Taipei Ethereum Meetup (Chinese)" title="Taipei Ethereum Meetup (Chinese)" description="" type="rss" version="RSS" htmlUrl="https://medium.com/taipei-ethereum-meetup?source=rss----756327875b4f---4" xmlUrl="https://medium.com/feed/taipei-ethereum-meetup"/>
-		<outline text="The TIE Research" title="The TIE Research" description="" type="rss" version="RSS" htmlUrl="https://research.thetie.io/" xmlUrl="https://research.thetie.io/feed/"/>
 		<outline text="TradeBlock" title="TradeBlock" description="" type="rss" version="RSS" htmlUrl="https://blog.tradeblock.com/" xmlUrl="http://feeds.feedburner.com/tradeblockfeed"/>
 		<outline text="Trail of Bits Blog" title="Trail of Bits Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.trailofbits.com/" xmlUrl="https://blog.trailofbits.com/feed/"/>
 		<outline text="Unenumerated" title="Unenumerated" description="" type="rss" version="RSS" htmlUrl="https://unenumerated.blogspot.com/" xmlUrl="https://unenumerated.blogspot.com/feeds/posts/default"/>
@@ -52,6 +51,7 @@
                 <outline text="0xTodd" title="0xTodd" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/0x_Todd" xmlUrl="https://twitter.com/0x_Todd"/>
                 <outline text="Bit余烬" title="Bit余烬" description="" type="rss" version="RSS" htmlUrl="https://twitter.com/BitcoinEmber" xmlUrl="https://twitter.com/BitcoinEmber"/>		
                 <outline text="蓝狐笔记" title="蓝狐笔记" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/0xC36051E2bb2128c18B6E16e5013355A7D950b3F5" xmlUrl="https://mirror.xyz/0xC36051E2bb2128c18B6E16e5013355A7D950b3F5/feed/atom"/>
+                <outline text="waytoagi" title="waytoagi" description="" type="rss" version="RSS" htmlUrl="https://blog.waytoagi.com/" xmlUrl="https://blog.waytoagi.com/rss/feed.xml"/>
 	</outline>
   </body>
 </opml>
